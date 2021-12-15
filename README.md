@@ -25,7 +25,7 @@
 
    
   <div>
-     <a href = "juliano.yamada@etec.sp.gov.br"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
-     <a href = ""><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>
+     <a href = "julianoyamada2005@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
+     <a href = "juliano.yamada@etec.sp.gov.br"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white></a>
     <a href = "https://github.com/JUJUGAMEPLAYS13"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
   </div>
